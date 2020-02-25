@@ -8,7 +8,7 @@ def print_game_stats(games_won):
 
        Expected output (ignore the docstring's indentation):
 
-       sara has won 0 games
+       sara has won 0 games 
        bob has won 1 game
        tim has won 5 games
        julian has won 3 games
